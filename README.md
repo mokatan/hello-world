@@ -3,3 +3,5 @@ This is my first repository
 ben bunu editledim
 
 eklenen kisim
+
+taze eklendiiii
