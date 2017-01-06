@@ -5,3 +5,5 @@ ben bunu editledim
 eklenen kisim
 
 taze eklendiiii
+
+yine ekledim be baba
